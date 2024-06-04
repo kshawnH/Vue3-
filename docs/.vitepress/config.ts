@@ -6,7 +6,7 @@ import { URL, fileURLToPath } from "node:url";
 import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "ElElement",
+  title: "HSJ-ElElement",
   description: "A VitePress Site",
   vite: {
     resolve: {

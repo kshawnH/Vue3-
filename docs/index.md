@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "ElElement"
-  text: "Vue3组件库"
+  name: "Kyshawn-ElElement"
+  text: "HSJ-Vue3组件库"
   tagline: 基于Vue3 + TypeScript的组件库
   actions:
     - theme: brand
