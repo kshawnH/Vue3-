@@ -3,7 +3,7 @@
 ## 下载项目
 
 ```shell
-git clone git@github.com:youngyangyang04/element-ui.git
+git clone https://github.com/kshawnH/Vue3-.git
 ```
 
 ## 启动项目
